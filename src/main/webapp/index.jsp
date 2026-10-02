@@ -14,6 +14,9 @@
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+
+    <label for="aadhar"><b>Enter Aadhaar</b></label>
+    <input type="aadhar number" placeholder="Enter Aadhaar" name="aadhar" id="aadhar" required>
     <hr>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
