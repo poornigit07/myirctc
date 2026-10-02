@@ -6,17 +6,18 @@
 
     <p><label for="name"><b>First Name</b></label>
     <input type="text" placeholder="Enter name" name="name" id="name" required></p>
-    <label for="email"><b>Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <p><label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" id="email" required></p>
 
-    <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+    <p><label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" id="psw" required></p>
+
+    <p><label for="psw-repeat"><b>Repeat Password</b></label>
+    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required></p>
 
     <label for="aadhar"><b>Enter Aadhaar</b></label>
-    <input type="aadhar number" placeholder="Enter Aadhaar" name="aadhar" id="aadhar" required>
+    <input type="aadhar numbeir" placeholder="Enter Aadhaar" name="aadhar" id="aadhar" required>
     <hr>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
